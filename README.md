@@ -24,7 +24,6 @@ In this project, I used a **coffee shop transactional dataset** to identify freq
 
 ## 📈 Key Techniques
 
-- **Data Cleaning & Preprocessing**
 - **Apriori Algorithm** to find frequent itemsets
 - **Association Rule Mining**
 - Analysis of:
