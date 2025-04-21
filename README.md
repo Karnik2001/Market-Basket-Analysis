@@ -41,7 +41,7 @@ In this project, I used a **coffee shop transactional dataset** to identify freq
 
 This implies that customers who purchase a **Latte** and a **Matcha Bun** are 1.3x more likely to also buy a **Croissant**.
 
-# 📚 Future Work
+## 📚 Future Work
 
     Visualize rules as a network graph using networkx
 
@@ -53,7 +53,7 @@ This implies that customers who purchase a **Latte** and a **Matcha Bun** are 1.
 
 
 
-# Citations
+## Citations
 
 https://365datascience.com/tutorials/python-tutorials/market-basket-analysis/
 
