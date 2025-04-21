@@ -18,7 +18,7 @@ In this project, I used a **coffee shop transactional dataset** to identify freq
 - **Pandas** – Data manipulation
 - **MLxtend** – Frequent itemset and association rule mining
 - **Matplotlib / Seaborn** – Data visualization
-- **Jupyter Notebook**
+- **Google Notebook**
 
 ---
 
